@@ -34,3 +34,6 @@ The solution maintains a full copy of the source folder at the replica folder. I
 ## Acknowledgments
 - This project was developed as part of a technical interview test for VEEAM.
 
+## Testing
+
+For manual testing procedures and scenarios, refer to [Manual Testing Instructions](./manualTesting.md).
