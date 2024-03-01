@@ -73,6 +73,11 @@ def sync_folders(source_path, replica_path, interval, log_file_path):
                                     log_file.write(f"Directory removed: {dir_sub_path}\n")
                                     log_file.flush()
 
+                            shutil.rmtree(replica_dir_path)
+                            print(f"Directory removed: {replica_dir_path}")
+                            log_file.write(f"Directory removed: {replica_dir_path}\n")
+                            log_file.flush()
+
                 log_file.write(f"Synchronization completed at {time.strftime('%Y-%m-%d %H:%M:%S')}\n\n")
                 log_file.flush()
 
