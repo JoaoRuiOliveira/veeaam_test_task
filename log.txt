@@ -1,0 +1,199 @@
+Synchronization started at 2024-03-01 19:07:21
+Directory created: replica\text stuff
+File copied/updated: replica\mystuff.txt
+File copied/updated: replica\text stuff\text.txt
+Synchronization completed at 2024-03-01 19:07:21
+
+Synchronization started at 2024-03-01 19:07:41
+Directory created: replica\text stuff
+File copied/updated: replica\text stuff\text.txt
+Synchronization completed at 2024-03-01 19:07:41
+
+Synchronization started at 2024-03-01 19:08:01
+Directory created: replica\text stuff
+File removed: replica\text stuff\text.txt
+Synchronization completed at 2024-03-01 19:08:01
+
+Synchronization started at 2024-03-01 19:08:21
+Directory created: replica\text stuff
+Synchronization completed at 2024-03-01 19:08:21
+
+Synchronization started at 2024-03-01 19:10:17
+Directory created: replica\text stuff
+Synchronization completed at 2024-03-01 19:10:17
+
+Synchronization started at 2024-03-01 19:10:27
+Directory created: replica\text stuff
+Synchronization completed at 2024-03-01 19:10:27
+
+Synchronization started at 2024-03-01 19:10:37
+Directory created: replica\text stuff
+Synchronization completed at 2024-03-01 19:10:37
+
+Synchronization started at 2024-03-01 19:10:47
+Directory removed: replica\text stuff
+Synchronization completed at 2024-03-01 19:10:47
+
+Synchronization started at 2024-03-01 19:10:57
+Synchronization completed at 2024-03-01 19:10:57
+
+Synchronization started at 2024-03-01 19:11:07
+Synchronization completed at 2024-03-01 19:11:07
+
+Synchronization started at 2024-03-01 19:11:17
+Synchronization completed at 2024-03-01 19:11:17
+
+Synchronization started at 2024-03-01 19:11:27
+Synchronization completed at 2024-03-01 19:11:27
+
+Synchronization started at 2024-03-01 19:11:37
+Synchronization completed at 2024-03-01 19:11:37
+
+Synchronization started at 2024-03-01 22:07:55
+Synchronization completed at 2024-03-01 22:07:55
+
+Synchronization started at 2024-03-01 22:08:05
+Directory created: replica\sdads
+Synchronization completed at 2024-03-01 22:08:05
+
+Synchronization started at 2024-03-01 22:08:15
+Directory created: replica\sdads
+File copied/updated: replica\sdads\file2.txt
+Synchronization completed at 2024-03-01 22:08:15
+
+Synchronization started at 2024-03-01 22:08:25
+Directory created: replica\sdads
+Synchronization completed at 2024-03-01 22:08:25
+
+Synchronization started at 2024-03-01 22:08:35
+Directory created: replica\sdads
+File copied/updated: replica\sdads\file2.txt
+Synchronization completed at 2024-03-01 22:08:35
+
+Synchronization started at 2024-03-01 22:08:45
+Directory created: replica\sdads
+Synchronization completed at 2024-03-01 22:08:45
+
+Synchronization started at 2024-03-01 22:08:55
+Directory created: replica\sdads
+File copied/updated: replica\sdads\file2.txt
+Synchronization completed at 2024-03-01 22:08:55
+
+Synchronization started at 2024-03-01 22:09:05
+Directory created: replica\sdads
+Synchronization completed at 2024-03-01 22:09:05
+
+Synchronization started at 2024-03-01 22:10:52
+Directory created: replica\asdaa
+Directory created: replica\sdads
+Directory created: replica\asdaa\asdasd
+File copied/updated: replica\asdaa\asda
+File copied/updated: replica\asdaa\asdasd\asdads
+Synchronization completed at 2024-03-01 22:10:52
+
+Synchronization started at 2024-03-01 22:11:02
+Directory created: replica\asdaa
+Directory created: replica\sdads
+Directory created: replica\asdaa\asdasd
+Synchronization completed at 2024-03-01 22:11:02
+
+Synchronization started at 2024-03-01 22:11:12
+Directory created: replica\asdaa
+Directory created: replica\sdads
+Directory created: replica\asdaa\asdasd
+Synchronization completed at 2024-03-01 22:11:12
+
+Synchronization started at 2024-03-01 22:11:22
+Directory created: replica\asdaa
+Directory created: replica\sdads
+Directory created: replica\asdaa\asdasd
+Synchronization completed at 2024-03-01 22:11:22
+
+Synchronization started at 2024-03-01 22:16:34
+Synchronization completed at 2024-03-01 22:16:34
+
+Synchronization started at 2024-03-01 22:16:44
+Synchronization completed at 2024-03-01 22:16:44
+
+Synchronization started at 2024-03-01 22:16:54
+File removed: replica\asdaa\asdasd\asdads
+Directory removed: replica\asdaa\asdasd
+Synchronization completed at 2024-03-01 22:16:54
+
+Synchronization started at 2024-03-01 22:17:04
+Synchronization completed at 2024-03-01 22:17:04
+
+Synchronization started at 2024-03-01 22:17:14
+Directory created: replica\asdaa
+File copied/updated: replica\asdaa\asda
+Synchronization completed at 2024-03-01 22:17:14
+
+Synchronization started at 2024-03-01 22:17:24
+Synchronization completed at 2024-03-01 22:17:24
+
+Synchronization started at 2024-03-01 22:17:34
+Synchronization completed at 2024-03-01 22:17:34
+
+Synchronization started at 2024-03-01 22:17:44
+Synchronization completed at 2024-03-01 22:17:44
+
+Synchronization started at 2024-03-01 22:17:54
+Synchronization completed at 2024-03-01 22:17:54
+
+Synchronization started at 2024-03-01 22:18:04
+Synchronization completed at 2024-03-01 22:18:04
+
+Synchronization started at 2024-03-01 22:18:14
+Synchronization completed at 2024-03-01 22:18:14
+
+Synchronization started at 2024-03-01 22:18:24
+Synchronization completed at 2024-03-01 22:18:24
+
+Synchronization started at 2024-03-01 22:18:34
+Synchronization completed at 2024-03-01 22:18:34
+
+Synchronization started at 2024-03-01 22:18:44
+Synchronization completed at 2024-03-01 22:18:44
+
+Synchronization started at 2024-03-01 22:18:54
+Synchronization completed at 2024-03-01 22:18:54
+
+Synchronization started at 2024-03-01 22:19:04
+Synchronization completed at 2024-03-01 22:19:04
+
+Synchronization started at 2024-03-01 22:19:14
+Synchronization completed at 2024-03-01 22:19:14
+
+Synchronization started at 2024-03-01 22:19:24
+Synchronization completed at 2024-03-01 22:19:24
+
+Synchronization started at 2024-03-01 22:19:34
+Synchronization completed at 2024-03-01 22:19:34
+
+Synchronization started at 2024-03-01 22:19:44
+Synchronization completed at 2024-03-01 22:19:44
+
+Synchronization started at 2024-03-01 22:19:54
+Synchronization completed at 2024-03-01 22:19:54
+
+Synchronization started at 2024-03-01 22:20:04
+Synchronization completed at 2024-03-01 22:20:04
+
+Synchronization started at 2024-03-01 22:20:14
+Synchronization completed at 2024-03-01 22:20:14
+
+Synchronization started at 2024-03-01 22:20:24
+Synchronization completed at 2024-03-01 22:20:24
+
+Synchronization started at 2024-03-01 22:20:34
+Synchronization completed at 2024-03-01 22:20:34
+
+Synchronization started at 2024-03-01 22:20:44
+Synchronization completed at 2024-03-01 22:20:44
+
+Synchronization started at 2024-03-01 22:20:54
+Synchronization completed at 2024-03-01 22:20:54
+
+Synchronization started at 2024-03-01 22:21:04
+Synchronization completed at 2024-03-01 22:21:04
+
